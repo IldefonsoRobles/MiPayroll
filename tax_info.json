@@ -1,5 +1,6 @@
 {
   "SchemaVersion": "1.0",
+  "DataVersion": "2026.11.21.01",
   "GeneratedAt": "2026-11-21",
   "CompatibleWith": "MiPayroll.Shared.Models.TaxYearPackage",
   "Coverage": "Federal (IRS Pub 15-T Percentage Method + FICA/FUTA) + All 50 U.S. States + District of Columbia (51 jurisdictions) for Tax Years 2026 and 2027",
