@@ -1,5 +1,5 @@
 # MiPayroll
-Tax Information
+Tax Information For MiPayroll (c) Software.
 
 ## Disclaimer
 The tax tables, brackets, and rates in this repository are compiled for informational and software configuration purposes only and **do not constitute tax, legal, or accounting advice**. 
